@@ -1,4 +1,4 @@
-package by.bsuir.csan.model;
+package by.bsuir.csan.constant;
 
 public enum FileType {
     DIR,

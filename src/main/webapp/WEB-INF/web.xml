@@ -10,6 +10,6 @@
     </servlet>
     <servlet-mapping>
         <servlet-name>manager-servlet</servlet-name>
-        <url-pattern>/manager</url-pattern>
+        <url-pattern>/manager/*</url-pattern>
     </servlet-mapping>
 </web-app>
